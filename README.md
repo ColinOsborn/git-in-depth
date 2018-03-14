@@ -27,3 +27,5 @@ Nina Zakharenko
 Front End Masters
 [Video screencast](http://frontendmasters.com/workshops/git-indepth/)
 
+Training course 3/14
+
